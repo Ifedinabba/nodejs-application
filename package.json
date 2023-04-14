@@ -5,6 +5,7 @@
   "main": "app.js",
   "publishConfig": {
     "registry": "http://18.132.12.111:8181/mysizamtek/repository/NodeJS_Proj/"
+           
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
